@@ -1,0 +1,29 @@
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.exe
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.deps.json
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.runtimeconfig.json
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.runtimeconfig.dev.json
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.dll
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\bin\Debug\netcoreapp3.1\Klyaksa Shop.pdb
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.csproj.AssemblyReference.cache
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form1.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.csproj.GenerateResource.cache
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.AssemblyInfoInputs.cache
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.AssemblyInfo.cs
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.csproj.CoreCompileInputs.cache
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.dll
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.pdb
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa Shop.genruntimeconfig.cache
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form2.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form3.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form4.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form5.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form6.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Properties.Resources.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form10.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form7.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form8.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form9.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form11.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form12.resources
+C:\Users\Студент.403-5\Desktop\Klyaksa Shop\obj\Debug\netcoreapp3.1\Klyaksa_Shop.Form13.resources
